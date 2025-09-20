@@ -1,8 +1,10 @@
-
-/.idea
-/.vscode
-
+.cache
+.data
 .env
+.env.local
+.idea
+.nitro
+.output
 dist
+eng.traineddata
 node_modules
-temp

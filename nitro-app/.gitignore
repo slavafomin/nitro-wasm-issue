@@ -1,9 +1,0 @@
-.cache
-.data
-.env
-.env.local
-.nitro
-.output
-dist
-eng.traineddata
-node_modules
